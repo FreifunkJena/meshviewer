@@ -1,12 +1,10 @@
-[![Build Status](https://travis-ci.org/tcatm/meshviewer.svg?branch=master)](https://travis-ci.org/tcatm/meshviewer)
-
 # Meshviewer
 
-Meshviewer is a frontend for
-[ffmap-backend](https://github.com/ffnord/ffmap-backend).
+Der Meshviewer ist unsere Software um die Knoten unseres Netzes auf der Karte darzustellen. Wie der Name schon suggeriert, zeigt er nicht nur die geolokalisierten Router, sondern auch deren Verbindungen untereinander an. Dazu kann auch wahlweise auf andere Darstellungsformen als die Karte umgestellt werden. Desweiteren bietet er Statistiken zum netz und Routern an.
 
+Unsere Installation findest du [hier](https://freifunk-muensterland.de/map/). Meshviewer is a frontend for [ffmap-backend](https://github.com/ffnord/ffmap-backend). Wichtige Versionsänderungen findest du im [Changelog](CHANGELOG.md).
 
-[Changelog](CHANGELOG.md)
+[![Build Status](https://travis-ci.org/tcatm/meshviewer.svg?branch=master)](https://travis-ci.org/tcatm/meshviewer)
 
 # Screenshots
 
