@@ -1,11 +1,9 @@
-[![Build Status](https://travis-ci.org/plumpudding/meshviewer.svg?branch=master)](https://travis-ci.org/plumpudding/meshviewer)
+[![Build Status](https://travis-ci.org/FreifunkJena/meshviewer.svg?branch=jena)](https://travis-ci.org/FreifunkJena/meshviewer)
 
 # Meshviewer
 
 Meshviewer is a frontend for
 [ffmap-backend](https://github.com/ffnord/ffmap-backend).
-
-# This fork will soon be partly merged into [ffnord/meshviewer](https://github.com/ffnord/meshviewer). Development will continue there.
 
 [Changelog](CHANGELOG.md)
 
@@ -20,9 +18,7 @@ There is no stable release cycle at the moment. Please use the master branch and
 
 # Communities providing an installation of this fork:
 
-- [Freifunk Düsseldorf-Flingern](http://map.ffdus.de/)
-- [Freifunk im Ennepe-Ruhr-Kreis](http://map.en.freifunk.ruhr/v4/)
-- [Freifunk gl.wupper](http://map.gl.wupper.ffrl.de/v4/)
+- [Freifunk Jena](https://freifunk-jena.de/meshviewer)
 
 # Configuration
 
@@ -149,8 +145,6 @@ Example for `siteNames`:
 
 # Building a minimized version
 
-Consider using a [precompiled tarball](http://petabyteboy.de:8090/job/plumpudding-meshviewer/lastSuccessfulBuild/artifact/build.zip) of the latest and greatest master commit
-
 ## Build dependencies
 
 - npm
@@ -168,7 +162,7 @@ or if you have bundler you can install ruby-sass simply via `bundle install`
 
 Execute these commands on your server as a normal user to prepare the dependencies:
 
-    git clone https://github.com/plumpudding/meshviewer.git
+    git clone https://github.com/FreifunkJena/meshviewer.git
     cd meshviewer
     npm install
     npm install grunt-cli
